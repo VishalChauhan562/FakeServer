@@ -1,0 +1,14 @@
+{
+  "name": "fake-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "\u001b[D\u001b[D\u001b[D\u001bserver.\u001b[C\u001b[C\u001b[js\u001b[C\u001b[D)",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
